@@ -1,6 +1,11 @@
-
+import Carousel from "../components/Carousel";
 
 function Home() {
-  return <h1>Welcome to Goodywoody Sawmill!</h1>;
+  return (
+    <div>
+      {" "}
+      <Carousel />
+    </div>
+  );
 }
 export default Home;
