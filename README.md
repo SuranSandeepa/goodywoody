@@ -1,6 +1,7 @@
 # GoodyWoody  -  React + Vite
 
-![Portfolio - Woodend](https://github.com/SuranSandeepa/goodywoody/assets/74088854/632630c1-b28c-456c-938a-2e4b69dfdeb6)
+![Portfolioc - Woodend](https://github.com/SuranSandeepa/goodywoody/assets/74088854/a19ddaa0-a74d-48d8-bf7f-92df3c3dbde1)
+
 
 
 Currently, two official plugins are available:
