@@ -1,6 +1,12 @@
 # GoodyWoody  -  React + Vite
 
-![Portfolioc - Woodend](https://github.com/SuranSandeepa/goodywoody/assets/74088854/a19ddaa0-a74d-48d8-bf7f-92df3c3dbde1)
+<div style="text-align: center;">
+  <img src="https://github.com/SuranSandeepa/goodywoody/assets/74088854/a19ddaa0-a74d-48d8-bf7f-92df3c3dbde1" alt="Portfolioc - Woodend">
+</div>
+
+
+
+
 
 
 
